@@ -1,5 +1,4 @@
 # Adicione um serial por linha. Apague esta linha de instrução antes de publicar se desejar.
-EA91
 29CD
 532GH
 GR3467
